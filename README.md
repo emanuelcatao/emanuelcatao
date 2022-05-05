@@ -1,5 +1,5 @@
 ## <img src="https://media.giphy.com/media/bcr4gpEXO3K4qbVtnt/giphy.gif" width="40"> Hi, I'm Emanuel Catão 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/RgaVJ150nYExi/giphy.gif" width="350" >
+<img align="right" alt="GIF" src="https://media.giphy.com/media/37LZIKnmJyzQs/giphy.gif" width="350" >
  
  💾 I am a undergraduate student in Computer Science
  
