@@ -19,9 +19,10 @@
 [twitter]: https://twitter.com/Emanuel_Catao
 
 #### 📈 Stats:
+
 <div>
-  <img align="rigth" width="400px" src="https://github-readme-stats.vercel.app/api?username=emanuelcatao&&count_private=trueshow_icons=true,css&layout=compact&theme=material-palenight"/>
-  <img align="rigth" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelcatao&count_private=true&layout=compact&theme=dracula"/>
+  <img align="rigth" width="400px" src="https://github-readme-stats.vercel.app/api?username=emanuelcatao&count_private=true&show_icons=true,css&layout=compact&theme=material-palenight"/>
+  <img align="rigth" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelcatao&layout=compact&theme=dracula"/>
 </div>
 
 ---
