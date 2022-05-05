@@ -22,7 +22,7 @@
 
 <div>
   <img align="rigth" width="400px" src="https://github-readme-stats.vercel.app/api?username=emanuelcatao&count_private=true&show_icons=true,css&layout=compact&theme=material-palenight"/>
-  <img align="rigth" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelcatao&layout=compact&theme=dracula"/>
+  <img align="rigth" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelcatao&exclude_repo=semanaomnistack11&layout=compact&theme=dracula"/>
 </div>
 
 ---
