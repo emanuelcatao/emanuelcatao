@@ -1,6 +1,7 @@
 ## <img src="https://media.giphy.com/media/bcr4gpEXO3K4qbVtnt/giphy.gif" width="40"> Hi, I'm Emanuel Catão 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/37LZIKnmJyzQs/giphy.gif" width="350" >
  
+ 
  💾 I am a undergraduate student in Computer Science
  
  🌱 I'm new to coding so I'm currently studying everything I can.
@@ -24,11 +25,16 @@
 </div>
 
 ---
-
+<i class="devicon-devicon-plain">coisa</i>
 <h4 align="left"> :computer: Languages and Tools :hammer:: </h4>
-<img align="left" alt="Java" width="26px" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" />
-<img align="left" alt="Python" width="26px" src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311-python-programming-language-icon-by-vexels.png" />
-<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bash/bash-original.svg" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/c/c-original.svg" />
+  <img align="left" alt="Emanuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="left" alt="Emanuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="left" alt="Emanuel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="left" alt="Emanuel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="left" alt="Emanuel-Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img align="left" alt="Emanuel-Bash" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+![Snake animation](https://github.com/emanuelcatao/emanuelcatao/blob/output/github-contribution-grid-snake.svg)
