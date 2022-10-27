@@ -37,5 +37,3 @@
   <img align="left" alt="Emanuel-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" /><br><br>
 
 ---
-
-![Snake animation](https://github.com/emanuelcatao/emanuelcatao/blob/output/github-contribution-grid-snake.svg)
