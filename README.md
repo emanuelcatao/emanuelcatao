@@ -1,5 +1,5 @@
 ## <img src="https://media.giphy.com/media/bcr4gpEXO3K4qbVtnt/giphy.gif" width="40"> Hi, I'm Emanuel Catão 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/37LZIKnmJyzQs/giphy.gif" width="350" >
+<img align="right" alt="GIF" src="https://media.giphy.com/media/37LZIKnmJyzQs/giphy.gif" width="175" >
  
  
  💾 I am a undergraduate student in Computer Science
@@ -18,11 +18,9 @@
 
 [twitter]: https://twitter.com/Emanuel_Catao
 
-#### 📈 Stats:
 
-<div>
-  <img align="rigth" width="400px" src="https://github-readme-stats.vercel.app/api?username=emanuelcatao&count_private=true&show_icons=true,css&layout=compact&theme=material-palenight"/>
-</div>
+
+
 
 ---
 
@@ -35,4 +33,3 @@
   <img align="left" alt="Emanuel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   <img align="left" alt="Emanuel-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" /><br><br>
 
----
