@@ -2,11 +2,9 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/37LZIKnmJyzQs/giphy.gif" width="175" >
  
  
- 💾 I am a undergraduate student in Computer Science
+ 💾 Bachelor of Computer Science
  
- 🌱 I'm new to coding so I'm currently studying everything I can.
- 
- 👯 I am looking to create projects on my own and also with college friends to improve my knowledge.
+ 🌱 Coding and studying everything I can.
  
  #### 📫 Connect with me: 
  
